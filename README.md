@@ -26,6 +26,7 @@ Average backend dude. For whatever reason work as mix of devops/backend.
 [![Static Badge](https://img.shields.io/badge/Linux-11161c?style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![Static Badge](https://img.shields.io/badge/git-11161c?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![Static Badge](https://img.shields.io/badge/Docker-11161c?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Static Badge](https://img.shields.io/badge/Kubernetes-11161c?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 [![Static Badge](https://img.shields.io/badge/Proxmox-11161c?style=for-the-badge&logo=proxmox)](https://proxmox.com/)
 [![Static Badge](https://img.shields.io/badge/Arduino-11161c?style=for-the-badge&logo=arduino)](https://arduino.cc/)
 
