@@ -11,9 +11,8 @@ Average backend dude. For whatever reason work as mix of devops/backend.
 #### Languages:
 
 [![Static Badge](https://img.shields.io/badge/Csharp-11161c?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Static Badge](https://img.shields.io/badge/Java-11161c?style=for-the-badge&logo=openjdk)](https://dev.java/)
+[![Static Badge](https://img.shields.io/badge/Nix-11161c?style=for-the-badge&logo=nixos)](https://nixos.org/)
 [![Static Badge](https://img.shields.io/badge/Python-11161c?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Static Badge](https://img.shields.io/badge/Lua-11161c?style=for-the-badge&logo=lua)](https://www.lua.org/)
 [![Static Badge](https://img.shields.io/badge/Ts-11161c?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
 #### In the process of studying:
