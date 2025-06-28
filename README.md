@@ -3,21 +3,20 @@
 Average backend dude. For whatever reason work as mix of devops/backend.
 
 #### About my system:
-[![Static Badge](https://img.shields.io/badge/Nixos-11161c?style=for-the-badge&logo=nixos)](https://nixos.org/)
-[![Static Badge](https://img.shields.io/badge/gnome-11161c?style=for-the-badge&logo=gnome)](https://gnome.org/)
+[![Static Badge](https://img.shields.io/badge/arch-11161c?style=for-the-badge&logo=archlinux)](https://archlinux.org/)
+[![Static Badge](https://img.shields.io/badge/kde-11161c?style=for-the-badge&logo=kde)](https://gnome.org/)
 [![Static Badge](https://img.shields.io/badge/MacOS-11161c?style=for-the-badge&logo=macos)](https://www.apple.com/macos/)
 [![Static Badge](https://img.shields.io/badge/Helix-11161c?style=for-the-badge&logo=helix)](https://helix-editor.com/)
 
 #### Languages:
 
+[![Static Badge](https://img.shields.io/badge/Go-11161c?style=for-the-badge&logo=go)](https://go.dev/)
 [![Static Badge](https://img.shields.io/badge/Csharp-11161c?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Static Badge](https://img.shields.io/badge/Nix-11161c?style=for-the-badge&logo=nixos)](https://nixos.org/)
-[![Static Badge](https://img.shields.io/badge/Python-11161c?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Static Badge](https://img.shields.io/badge/Ts-11161c?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Static Badge](https://img.shields.io/badge/Python-11161c?style=for-the-badge&logo=python)](https://www.python.org/)
 
 #### In the process of studying:
 
-[![Static Badge](https://img.shields.io/badge/Go-11161c?style=for-the-badge&logo=go)](https://go.dev/)
 [![Static Badge](https://img.shields.io/badge/rust-11161c?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 
 #### Technologies and skills:
